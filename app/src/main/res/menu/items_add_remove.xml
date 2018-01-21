@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu_add_item"
+        android:icon="@android:drawable/ic_input_add"
+        android:orderInCategory="100"
+        android:title="plus"
+        android:visible="true"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/menu_remove_item"
+        android:icon="@android:drawable/ic_delete"
+        android:orderInCategory="100"
+        android:title="minus"
+        android:visible="true"
+        app:showAsAction="always"
+        />
+
+</menu>

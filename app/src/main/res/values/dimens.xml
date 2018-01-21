@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="margin_dim">5sp</dimen>
+    <dimen name="title_dim">25sp</dimen>
+    <dimen name="category_dim">15sp</dimen>
+    <dimen name="list_padding">12dp</dimen>
+
+</resources>
